@@ -1,0 +1,18 @@
+.login_container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .login_form{
+      width: 30%;
+      border: 1px solid black;
+      padding: 25px;
+  }
+  .cabecera{
+        background-image: url("http://localhost:3000/img/foto1.jpg");
+        min-height: 100vh;
+        width: 100%;
+}

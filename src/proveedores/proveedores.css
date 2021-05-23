@@ -1,0 +1,22 @@
+.cont{
+    background-image: url("http://localhost:3000/img/fo1.jpg");
+    min-height: 100vh;
+}
+.title{
+    text-align: center;
+}
+.table{
+    padding: 5%;
+}
+.img_editar{
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 20px;
+    max-height: 20px;
+}
+.img_agregar{
+    min-width: 100px;
+    min-height: 100px;
+    max-width: 100px;
+    max-height: 100px;
+}
